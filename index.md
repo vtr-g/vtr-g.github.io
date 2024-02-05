@@ -1,7 +1,6 @@
 ---
 layout: default
-title: homepage
-permalink: https://vvttrr.github.io
+title: "homepage"
 ---
 
 
