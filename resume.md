@@ -1,7 +1,7 @@
 ---
 layout: page
 title: resume
-permalink: https://vvttrr.github.io/about/resume
+permalink: https://vvttrr.github.io/resume
 ---
 
 This is a test
