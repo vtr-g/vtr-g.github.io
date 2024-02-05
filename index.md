@@ -1,15 +1,21 @@
 ---
 layout: default
 title: "homepage"
+datatable: true
 ---
 
 
-## Header
+# About
 
-making a chenge
-![this is a milk jug](images/milk.jpg)
+I am a Computer Science Teacher at University School of Nashville. This is an archival website where I put ideas, projects, and updates.
 
+<div class="datatable-begin"></div>
 
-I am a computer Science Teacher from University School of Nashville
+ Project Name                           | Date Started | tags
+ -------------------------------------- | ------------ | -----------
+ [Codewars Autograder](./autograder.md)| 08/06/2021   |
+ [Health Wearables](./healthwear.md)   | 01/15/2024   |
+ [Website](./website.md)               | 02/01/2024   | 
+ [Resume](./resume.md)                 | 02/05/2024   | 
 
-![click here for resume](https://vvttrr.github.io/about/resume)
+<div class="datatable-end"></div>
