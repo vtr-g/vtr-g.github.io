@@ -5,7 +5,7 @@
 @import 'jekyll-theme-dinky';
 
 .profile-pic {
-    width: 100px; /* Adjust as needed */
+    width: 20px; /* Adjust as needed */
     height: auto;
     border-radius: 50%; /* Optional: for circular images */
   }
