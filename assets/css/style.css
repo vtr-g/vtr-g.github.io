@@ -1,0 +1,12 @@
+.profile-pic {
+    width: 100px; /* Adjust as needed */
+    height: auto;
+    border-radius: 50%; /* Optional: for circular images */
+  }
+  
+  .custom-text {
+    /* Your styling for the text */
+    color: #333;
+    margin: 10px 0;
+  }
+  

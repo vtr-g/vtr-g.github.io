@@ -23,7 +23,7 @@ Then we go straight into creating our own websites together!
 The landing page is ugly, I need to figure out how to add links and images to the left side of the website. 
 
 Here's what it looks like now:
-![website-screenshot-1](/images/website-screenshot-1.png)
+![website-screenshot-1](/assets/images/website-screenshot-1.png)
 
 It looks like HTML, so I probably just need to do a deep dive into the ```_layouts/default.html``` file.
 
