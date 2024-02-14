@@ -19,3 +19,6 @@ I am a Computer Science Teacher at University School of Nashville. This is an ar
  [Resume](./resume.md)                 | 02/05/2024   | 
 
 <div class="datatable-end"></div>
+
+
+<a href ="http://user.github.io/resume">does this do something?</a>
