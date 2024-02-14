@@ -10,6 +10,7 @@ datatable: true
 I am a Computer Science Teacher at University School of Nashville. This is an archival website where I put ideas, projects, and updates.
 
 <div class="datatable-begin"></div>
+
  Project Name                                 | Date Started | tags
  -------------------------------------------- | ------------ | -----------
  [Codewars Autograder](./codewars-autograder.md)       | 08/06/2021   |
